@@ -10,8 +10,8 @@ public interface IConstants {
 	String ACCESS_URL = "http://api.twitter.com/oauth/access_token";
 	String AUTHORIZE_URL = "http://api.twitter.com/oauth/authorize";
 	
-	String TWITTER_API_KEY = "gorpmqzplPfVqfBfzBYKHA";
-	String TWITTER_SECRET_KEY = "vq3Ej8P1UyDvB1ovG6X96GnOiVrExNv4XKTfUblwUWU";
+	String TWITTER_API_KEY = "--API KEY HERE--";
+	String TWITTER_SECRET_KEY = "--API SECRET HERE--";
 	
 //	String REQUEST_URL = "https://api.linkedin.com/uas/oauth/requestToken";
 //	String ACCESS_URL = "https://api.linkedin.com/uas/oauth/accessToken";
