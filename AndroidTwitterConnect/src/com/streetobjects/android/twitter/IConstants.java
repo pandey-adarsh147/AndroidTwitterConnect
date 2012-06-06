@@ -13,12 +13,6 @@ public interface IConstants {
 	String TWITTER_API_KEY = "--API KEY HERE--";
 	String TWITTER_SECRET_KEY = "--API SECRET HERE--";
 	
-//	String REQUEST_URL = "https://api.linkedin.com/uas/oauth/requestToken";
-//	String ACCESS_URL = "https://api.linkedin.com/uas/oauth/accessToken";
-//	String AUTHORIZE_URL = "https://www.linkedin.com/uas/oauth/authorize";
-//	
-//	String TWITTER_API_KEY = "6v56e67jrlsj";
-//	String TWITTER_SECRET_KEY = "7Xl5ceyg8SUyqN9U";
 	
 	
 	int RESULT_OK = 1;
